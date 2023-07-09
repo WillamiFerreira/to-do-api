@@ -6,7 +6,7 @@ const app = express();
 
 app.use(express.json());
 app.use(cors({
-    origin: 'http://localhost:5173'
+    origin: 'https://ornate-babka-2a01f0.netlify.app'
 }))
 
 app.use(router);
