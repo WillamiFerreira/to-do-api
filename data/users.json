@@ -1,0 +1,112 @@
+[
+  {
+    "categories": [
+      {
+        "id": 0,
+        "name": null
+      },
+      {
+        "id": 1,
+        "name": "work"
+      },
+      {
+        "id": 2,
+        "name": "home"
+      },
+      {
+        "id": 3,
+        "name": "self-care"
+      }
+    ]
+  },
+  {
+    "title": "Lavar o cabelo",
+    "categories": "self-care",
+    "author": "Gabriel",
+    "status": "doing",
+    "deadline": "2023-07-07",
+    "description": "",
+    "id": "f5bdd3fd-a0c6-4b3c-bfca-7ec6a46fe466",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Iniciar a criação do portfólio 2",
+    "categories": "work",
+    "author": "Gabriel",
+    "status": "to-do",
+    "deadline": "2023-07-14",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "id": "75cbebfd-e247-441e-8267-499c6743f675",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Colher os cogumelos",
+    "categories": "self-care",
+    "author": "",
+    "status": "doing",
+    "deadline": "2023-07-08",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "id": "e085a114-8409-4ba4-a624-e9dec11bdd02",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Conversar com a sogra",
+    "categories": "self-care",
+    "author": "",
+    "status": "to-do",
+    "deadline": "2023-07-15",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "id": "1ca44ae2-ea5f-4ba9-8a37-8c9c1cb7b0ab",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Primeira tarefa com o novo design",
+    "categories": "home",
+    "author": "Gabriel Ferreira",
+    "status": "doing",
+    "deadline": "2023-07-14",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "id": "5754859b-d41c-444e-9f3f-7e28e82f1c2b",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Teste one",
+    "categories": "home",
+    "author": "",
+    "status": "doing",
+    "deadline": "2023-08-04",
+    "description": "",
+    "id": "4f810994-140c-4dc8-b325-b2e64285fd42",
+    "data": "07/07/2023"
+  },
+  {
+    "title": "Nova tarefa",
+    "categories": "home",
+    "author": "Gabriel Fereira",
+    "status": "to-do",
+    "deadline": "2023-07-13",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    "id": "87870abe-e387-4368-a3a2-b5371c488325",
+    "data": "08/07/2023"
+  },
+  {
+    "title": "Nova ativdade exemplo",
+    "categories": "home",
+    "author": "Gabriel",
+    "status": "doing",
+    "deadline": "2023-07-14",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    "id": "59236416-c016-4aa7-b7ac-0465a2e5a61d",
+    "data": "08/07/2023"
+  },
+  {
+    "title": "Nova atividade 03",
+    "categories": "self-care",
+    "author": "Matheus",
+    "status": "doing",
+    "deadline": "2023-07-11",
+    "description": "lorem",
+    "id": "d5962faa-cfed-47d0-a578-5684bc39a37c",
+    "data": "09/07/2023"
+  }
+]
