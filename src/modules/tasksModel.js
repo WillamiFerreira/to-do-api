@@ -2,7 +2,7 @@ const fs = require('fs');
 /*o readFile é relativo a onde inicia o processo
 , geralemente a raiz */
 const {v4:uuidv4} = require('uuid');
-const db = './data/users.json'
+const db = './src/data/users.json'
 
 function obterDataAtual() {
     const dataAtual = new Date();
